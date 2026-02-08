@@ -55,7 +55,7 @@ gsap.from(".product-link", {
   scrollTrigger: {
     trigger: ".product",
     start: "top 20%",
-    markers: true
+    // markers: true
   },
   opacity: 0,
   y: 40,
